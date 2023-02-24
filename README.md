@@ -11,7 +11,7 @@ Since IPFS relies on a garbage collector to free memory, files are not permanenl
 To solve this problem the application uses a decentralised pinning service of Crust Network.
 Full details about Crust can be found here: https://wiki.crust.network/docs/en/build101
 
-For it to be fully decentralised and IPFS content identifiers are easily accessible
+For it to be fully decentralised and IPFS content identifiers easily accessible
 the application relies on the usage of ink smart contracts.
 The smart contracts are responsible of storing all content identifiers and
 an access control list of the owners that have the priviledges to access the 
