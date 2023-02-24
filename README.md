@@ -2,7 +2,8 @@
 
 This is a cli application that implements content encryption on top of IPFS.
 
-IPFS is a desentralised file system that uses content-addressing for retrieving files rather then location addressing.
+IPFS is a desentralised file system that uses content-addressing for retrieving 
+files rather then location addressing.
 This protocol hardly relies on cryptograpghic principles.
 Full description about IPFS here: https://docs.ipfs.tech/
 
